@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="링구링에서 무료로 사용할 수 있는 공개 영어 단어장" />
+    <title>공개 단어장 | 링구링</title>
+    <style>
+      :root {
+        --mint: #76d5be;
+        --mint-deep: #438e7d;
+        --mint-soft: #ddf8f1;
+        --lemon: #f3d75f;
+        --lemon-soft: #fff4b5;
+        --cream: #fffdf2;
+        --ink: #4b493f;
+        --muted: #74756d;
+        --line: #c9ede3;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        color: var(--ink);
+        background: #f1fcf8;
+        font-family: Pretendard, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+      main { width: min(760px, 100%); margin: auto; padding: 48px 20px 70px; }
+      header {
+        padding: 38px;
+        border-radius: 30px;
+        background: linear-gradient(135deg, var(--mint-soft), var(--lemon-soft));
+      }
+      .brand { color: var(--mint-deep); font-size: 15px; font-weight: 900; }
+      h1 { margin: 20px 0 10px; font-size: clamp(32px, 8vw, 48px); }
+      header p, .help { color: var(--muted); line-height: 1.7; }
+      .list { display: grid; gap: 16px; margin-top: 24px; }
+      article {
+        padding: 26px;
+        border: 1px solid var(--line);
+        border-radius: 22px;
+        background: var(--cream);
+      }
+      article:nth-child(2) { border-color: #f2e39b; }
+      h2 { margin: 0; font-size: 22px; }
+      article p { color: var(--muted); font-size: 14px; line-height: 1.7; }
+      ul { padding-left: 20px; color: var(--muted); font-size: 13px; line-height: 1.8; }
+      .download {
+        display: inline-flex;
+        margin-top: 8px;
+        padding: 12px 17px;
+        border-radius: 12px;
+        color: #314f47;
+        background: var(--mint);
+        font-weight: 900;
+        text-decoration: none;
+      }
+      article:nth-child(2) .download { background: var(--lemon); }
+      .help {
+        margin-top: 28px;
+        padding: 22px;
+        border-radius: 18px;
+        background: white;
+        font-size: 13px;
+      }
+      .help strong { color: var(--mint-deep); }
+      footer { margin-top: 24px; color: #92958d; font-size: 11px; text-align: center; }
+      @media (max-width: 520px) {
+        main { padding: 0 0 46px; }
+        header { border-radius: 0 0 28px 28px; padding: 34px 22px; }
+        .list, .help { margin-left: 16px; margin-right: 16px; }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <div class="brand">LINGULING PUBLIC DECKS</div>
+        <h1>무료 공개 단어장</h1>
+        <p>원하는 단어장을 내려받아 링구링의 카드 가져오기 기능으로 추가해보세요.</p>
+      </header>
+
+      <section class="list">
+        <article>
+          <h2>고급 영어 핵심 어휘 300</h2>
+          <p>고급 영어 학습을 위한 핵심 어휘와 새롭게 작성한 예문을 함께 익혀요.</p>
+          <ul><li>어휘 300개</li><li>예문 300개</li><li>총 600카드</li></ul>
+          <a
+            class="download"
+            href="https://raw.githubusercontent.com/harleekim/linguling-releases/main/decks/LinguLing-deck-%EA%B3%A0%EA%B8%89-%EC%98%81%EC%96%B4-%ED%95%B5%EC%8B%AC-%EC%96%B4%ED%9C%98-300.json"
+          >단어장 다운로드</a>
+        </article>
+
+        <article>
+          <h2>생활 영어 표현과 예문</h2>
+          <p>일상에서 활용하기 좋은 핵심 표현과 새롭게 작성한 예문을 익혀요.</p>
+          <ul><li>표현 21개</li><li>예문 42개</li><li>총 63카드</li></ul>
+          <a
+            class="download"
+            href="https://raw.githubusercontent.com/harleekim/linguling-releases/main/decks/LinguLing-deck-%EC%83%9D%ED%99%9C-%EC%98%81%EC%96%B4-%ED%91%9C%ED%98%84%EA%B3%BC-%EC%98%88%EB%AC%B8.json"
+          >단어장 다운로드</a>
+        </article>
+      </section>
+
+      <div class="help">
+        <strong>사용 방법</strong><br />
+        파일을 휴대폰에 저장한 다음 링구링에서
+        <b>단어장 → 카드 가져오기</b>를 선택하세요.
+      </div>
+
+      <footer>© 2026 흐안느아 · CC BY-NC 4.0</footer>
+    </main>
+  </body>
+</html>

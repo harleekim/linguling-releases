@@ -1,0 +1,4812 @@
+{
+  "format": "linguling-deck",
+  "version": 1,
+  "deck": {
+    "name": "고급 영어 핵심 어휘 300",
+    "description": "고급 영어 학습을 위한 핵심 어휘 300개와 새롭게 작성한 예문",
+    "author": "흐안느아",
+    "license": "CC BY-NC 4.0"
+  },
+  "cards": [
+    {
+      "kind": "sentence",
+      "english": "The festival coincides with the national holiday.",
+      "korean": "그 축제는 국경일과 같은 시기에 열린다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "coincide",
+      "korean": "동시에 일어나다, 일치하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She presented a coherent argument.",
+      "korean": "그녀는 일관성 있는 주장을 펼쳤다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "coherent",
+      "korean": "일관성 있는",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Could you clarify what you mean?",
+      "korean": "무슨 뜻인지 명확히 설명해 주시겠어요?",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "clarify",
+      "korean": "명확히 하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The factory ceased production last month.",
+      "korean": "그 공장은 지난달 생산을 중단했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "cease",
+      "korean": "중단하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The stadium has a seating capacity of 40,000.",
+      "korean": "그 경기장의 좌석 수용 인원은 4만 명이다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "capacity",
+      "korean": "수용력, 능력",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The region has abundant natural resources.",
+      "korean": "그 지역에는 천연자원이 풍부하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The software calculates the total cost automatically.",
+      "korean": "그 소프트웨어는 총비용을 자동으로 계산한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "calculate",
+      "korean": "계산하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "High medical costs place a burden on families.",
+      "korean": "높은 의료비는 가정에 부담을 준다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "burden",
+      "korean": "부담",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Travel can broaden your perspective.",
+      "korean": "여행은 시야를 넓힐 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "broaden",
+      "korean": "넓히다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The manager gave a brief explanation.",
+      "korean": "관리자는 간단히 설명했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "brief",
+      "korean": "간결한, 잠깐의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The campaign helped boost sales.",
+      "korean": "그 캠페인은 매출 증가에 도움이 되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "boost",
+      "korean": "증가시키다, 북돋우다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "abundant",
+      "korean": "풍부한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The study may be affected by selection bias.",
+      "korean": "그 연구는 선택 편향의 영향을 받을 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "bias",
+      "korean": "편견, 편향",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Regular breaks are beneficial to productivity.",
+      "korean": "규칙적인 휴식은 생산성에 도움이 된다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "beneficial",
+      "korean": "유익한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Few plants can survive in the barren landscape.",
+      "korean": "그 메마른 지역에서는 살아남을 수 있는 식물이 거의 없다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "barren",
+      "korean": "메마른, 불모의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Most people are aware of the risks.",
+      "korean": "대부분의 사람들은 그 위험을 알고 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "aware",
+      "korean": "알고 있는",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The product is available in several sizes.",
+      "korean": "그 제품은 여러 크기로 구매할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "available",
+      "korean": "이용 가능한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "It is absurd to blame her for everything.",
+      "korean": "모든 일을 그녀 탓으로 돌리는 것은 터무니없다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The university operates as an autonomous institution.",
+      "korean": "그 대학은 자율적인 기관으로 운영된다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "autonomous",
+      "korean": "자율적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The restaurant serves authentic Italian food.",
+      "korean": "그 식당은 정통 이탈리아 음식을 제공한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "authentic",
+      "korean": "진짜의, 진정한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Researchers attribute the decline to climate change.",
+      "korean": "연구자들은 그 감소의 원인을 기후 변화로 본다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "attribute",
+      "korean": "~의 탓으로 돌리다, 속성",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She worked hard to attain her goals.",
+      "korean": "그녀는 목표를 달성하기 위해 열심히 노력했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "attain",
+      "korean": "달성하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We should not assume that everyone agrees.",
+      "korean": "모두가 동의한다고 가정해서는 안 된다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "assume",
+      "korean": "가정하다, 떠맡다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "absurd",
+      "korean": "터무니없는",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The stock market has been highly volatile this week.",
+      "korean": "이번 주 주식시장은 변동성이 매우 컸다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "volatile",
+      "korean": "변동이 심한, 불안정한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Many experts remain skeptical about the claim.",
+      "korean": "많은 전문가들은 그 주장에 여전히 회의적이다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "skeptical",
+      "korean": "회의적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Children are often more resilient than adults expect.",
+      "korean": "아이들은 어른들이 생각하는 것보다 회복력이 강한 경우가 많다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "resilient",
+      "korean": "회복력이 강한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Smartphones have become pervasive in modern life.",
+      "korean": "스마트폰은 현대 생활 전반에 널리 퍼졌다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "pervasive",
+      "korean": "널리 퍼진",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Many older devices have become obsolete.",
+      "korean": "많은 구형 기기는 더 이상 쓰이지 않게 되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "obsolete",
+      "korean": "구식의, 더 이상 쓰이지 않는",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Each student was assigned a different topic.",
+      "korean": "각 학생에게 서로 다른 주제가 배정되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Lack of sleep can induce anxiety.",
+      "korean": "수면 부족은 불안을 유발할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "induce",
+      "korean": "유발하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The investigation must be independent and impartial.",
+      "korean": "조사는 독립적이고 공정해야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "impartial",
+      "korean": "공정한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Parents exert a strong influence on children.",
+      "korean": "부모는 자녀에게 큰 영향을 미친다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "exert",
+      "korean": "행사하다, 가하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "A permanent solution remains elusive.",
+      "korean": "영구적인 해결책은 여전히 찾기 어렵다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "elusive",
+      "korean": "찾기 힘든, 이해하기 어려운",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The power outage disrupted train services.",
+      "korean": "정전으로 열차 운행에 차질이 생겼다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "disrupt",
+      "korean": "방해하다, 혼란시키다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "assign",
+      "korean": "배정하다, 부여하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The committee deferred its final decision.",
+      "korean": "위원회는 최종 결정을 연기했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "defer",
+      "korean": "미루다, 연기하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The claim must be supported by credible evidence.",
+      "korean": "그 주장은 신뢰할 수 있는 증거로 뒷받침되어야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "credible",
+      "korean": "신뢰할 수 있는",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The results correspond closely with our predictions.",
+      "korean": "그 결과는 우리의 예측과 거의 일치한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "correspond",
+      "korean": "일치하다, 서신을 주고받다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She is contemplating a career change.",
+      "korean": "그녀는 이직을 진지하게 고민하고 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "contemplate",
+      "korean": "숙고하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "This software is compatible with most devices.",
+      "korean": "이 소프트웨어는 대부분의 기기와 호환된다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "compatible",
+      "korean": "양립 가능한, 호환되는",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The doctor assessed the patient's condition.",
+      "korean": "의사는 환자의 상태를 평가했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The audience remained attentive throughout the lecture.",
+      "korean": "청중은 강연 내내 주의를 기울였다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "attentive",
+      "korean": "주의 깊은",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The witness asserted that she had seen the suspect.",
+      "korean": "목격자는 자신이 용의자를 봤다고 단언했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "assert",
+      "korean": "단언하다, 주장하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The structure is analogous to that of the human eye.",
+      "korean": "그 구조는 인간의 눈 구조와 유사하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "analogous",
+      "korean": "유사한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The new treatment may alleviate chronic pain.",
+      "korean": "새 치료법은 만성 통증을 완화할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "alleviate",
+      "korean": "완화하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The figures were aggregated into a single report.",
+      "korean": "그 수치들은 하나의 보고서로 합산되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "aggregate",
+      "korean": "합계, 총체; 합산하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "assess",
+      "korean": "평가하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The medicine may cause adverse side effects.",
+      "korean": "그 약은 부작용을 일으킬 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "adverse",
+      "korean": "불리한, 부정적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Several members abstained from voting.",
+      "korean": "몇몇 구성원은 투표를 기권했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "abstain",
+      "korean": "삼가다, 기권하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The experiment yielded unexpected results.",
+      "korean": "그 실험은 예상치 못한 결과를 낳았다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "yield",
+      "korean": "산출하다, 양보하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The company withdrew its offer.",
+      "korean": "그 회사는 제안을 철회했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "withdraw",
+      "korean": "철회하다, 인출하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The policy received widespread support.",
+      "korean": "그 정책은 폭넓은 지지를 받았다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "widespread",
+      "korean": "널리 퍼진",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The lake was created by an artificial dam.",
+      "korean": "그 호수는 인공 댐으로 만들어졌다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Young children are especially vulnerable to infection.",
+      "korean": "어린아이들은 감염에 특히 취약하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "vulnerable",
+      "korean": "취약한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The two products are virtually identical.",
+      "korean": "그 두 제품은 사실상 동일하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "virtually",
+      "korean": "사실상, 거의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We are looking for a viable alternative.",
+      "korean": "우리는 실행 가능한 대안을 찾고 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "viable",
+      "korean": "실행 가능한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Prices vary depending on the season.",
+      "korean": "가격은 계절에 따라 달라진다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "vary",
+      "korean": "달라지다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Your passport must be valid for at least six months.",
+      "korean": "여권은 최소 6개월 이상 유효해야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "valid",
+      "korean": "타당한, 유효한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "artificial",
+      "korean": "인공적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Each region has its own unique culture.",
+      "korean": "각 지역에는 고유한 문화가 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "unique",
+      "korean": "독특한, 유일한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The samples were kept at a uniform temperature.",
+      "korean": "표본들은 일정한 온도로 유지되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "uniform",
+      "korean": "균일한, 제복",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "False rumors can undermine public confidence.",
+      "korean": "거짓 소문은 대중의 신뢰를 약화시킬 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "undermine",
+      "korean": "약화시키다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We need to address the underlying cause of the problem.",
+      "korean": "우리는 그 문제의 근본 원인을 해결해야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "underlying",
+      "korean": "근본적인, 기저의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The building is undergoing major repairs.",
+      "korean": "그 건물은 대규모 보수 공사를 진행 중이다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "undergo",
+      "korean": "겪다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Problems may arise when expectations are unclear.",
+      "korean": "기대치가 불분명하면 문제가 발생할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The announcement triggered a wave of protests.",
+      "korean": "그 발표는 거센 시위를 촉발했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "trigger",
+      "korean": "촉발하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The virus is transmitted through close contact.",
+      "korean": "그 바이러스는 밀접 접촉을 통해 전파된다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "transmit",
+      "korean": "전송하다, 전달하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Digital technology has transformed the workplace.",
+      "korean": "디지털 기술은 업무 환경을 변화시켰다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "transform",
+      "korean": "변화시키다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The source of the leak was traced to a damaged pipe.",
+      "korean": "누수의 원인은 손상된 배관으로 추적되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "trace",
+      "korean": "추적하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The school does not tolerate bullying.",
+      "korean": "그 학교는 괴롭힘을 용납하지 않는다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "tolerate",
+      "korean": "참다, 용인하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "arise",
+      "korean": "발생하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The police conducted a thorough investigation.",
+      "korean": "경찰은 철저한 조사를 실시했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "thorough",
+      "korean": "철저한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The contract may be terminated without notice.",
+      "korean": "그 계약은 통보 없이 종료될 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "terminate",
+      "korean": "종료하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We made a tentative schedule for the conference.",
+      "korean": "우리는 학회의 잠정 일정을 세웠다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "tentative",
+      "korean": "잠정적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The company cannot sustain such rapid growth.",
+      "korean": "그 회사는 그런 빠른 성장을 계속 유지할 수 없다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "sustain",
+      "korean": "유지하다, 견디다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The medication helps suppress the symptoms.",
+      "korean": "그 약은 증상을 억제하는 데 도움이 된다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "suppress",
+      "korean": "억제하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The decision seemed completely arbitrary.",
+      "korean": "그 결정은 완전히 자의적으로 보였다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "There is not sufficient evidence to support the claim.",
+      "korean": "그 주장을 뒷받침할 충분한 증거가 없다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "sufficient",
+      "korean": "충분한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "You can substitute yogurt for cream.",
+      "korean": "크림 대신 요거트를 사용할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "substitute",
+      "korean": "대체하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The project received substantial financial support.",
+      "korean": "그 프로젝트는 상당한 재정 지원을 받았다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "substantial",
+      "korean": "상당한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Subsequent studies confirmed the original findings.",
+      "korean": "후속 연구들은 최초의 연구 결과를 확인했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "subsequent",
+      "korean": "그다음의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Lower interest rates may stimulate economic growth.",
+      "korean": "낮은 금리는 경제 성장을 촉진할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "stimulate",
+      "korean": "자극하다, 촉진하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "arbitrary",
+      "korean": "자의적인, 임의의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The meeting came to an abrupt end.",
+      "korean": "회의는 갑작스럽게 끝났다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The image remained static on the screen.",
+      "korean": "화면의 이미지는 움직이지 않은 채 그대로였다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "static",
+      "korean": "고정된, 정적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Prices have remained stable for several months.",
+      "korean": "물가는 몇 달 동안 안정적으로 유지되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "stable",
+      "korean": "안정적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The contract specifies the delivery date.",
+      "korean": "계약서에는 배송 날짜가 명시되어 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "specify",
+      "korean": "명시하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "He was the sole survivor of the accident.",
+      "korean": "그는 그 사고의 유일한 생존자였다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "sole",
+      "korean": "유일한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The software simulates real-world conditions.",
+      "korean": "그 소프트웨어는 실제 환경을 모의실험한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "simulate",
+      "korean": "모의실험하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She felt apprehensive about starting a new job.",
+      "korean": "그녀는 새 직장을 시작하는 것이 불안했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The treatment produced a significant improvement.",
+      "korean": "그 치료는 상당한 개선을 가져왔다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "significant",
+      "korean": "상당한, 중요한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The issue lies beyond the scope of this report.",
+      "korean": "그 문제는 이 보고서의 범위를 벗어난다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "scope",
+      "korean": "범위",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The city introduced a recycling scheme.",
+      "korean": "시는 재활용 제도를 도입했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "scheme",
+      "korean": "계획, 제도",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Clean drinking water is scarce in the region.",
+      "korean": "그 지역에서는 깨끗한 식수가 부족하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "scarce",
+      "korean": "부족한, 희귀한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The economy needs a more robust recovery.",
+      "korean": "경제에는 더 강력한 회복이 필요하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "robust",
+      "korean": "튼튼한, 강력한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "apprehensive",
+      "korean": "걱정하는, 불안한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The school follows a rigid schedule.",
+      "korean": "그 학교는 엄격한 일정을 따른다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "rigid",
+      "korean": "엄격한, 융통성 없는",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The survey revealed a change in public opinion.",
+      "korean": "그 설문조사는 여론의 변화를 보여주었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "reveal",
+      "korean": "드러내다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The company hopes to retain skilled employees.",
+      "korean": "그 회사는 숙련된 직원을 계속 유지하기를 바란다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "retain",
+      "korean": "유지하다, 보유하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The policy restricts access to confidential files.",
+      "korean": "그 정책은 기밀 파일에 대한 접근을 제한한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "restrict",
+      "korean": "제한하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The storm rendered the road impassable.",
+      "korean": "폭풍으로 인해 그 도로는 통행이 불가능해졌다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "render",
+      "korean": "~하게 만들다, 제공하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The charity appealed to the public for donations.",
+      "korean": "그 자선단체는 대중에게 기부를 호소했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "He was reluctant to discuss the incident.",
+      "korean": "그는 그 사건에 대해 이야기하기를 꺼렸다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "reluctant",
+      "korean": "꺼리는",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The committee rejected the proposal.",
+      "korean": "위원회는 그 제안을 거부했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "reject",
+      "korean": "거부하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The campaign reinforces the importance of wearing seat belts.",
+      "korean": "그 캠페인은 안전벨트 착용의 중요성을 강조한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "reinforce",
+      "korean": "강화하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The team refined its strategy after the first trial.",
+      "korean": "그 팀은 첫 시험 후 전략을 다듬었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "refine",
+      "korean": "개선하다, 정제하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The two countries maintain a reciprocal trade agreement.",
+      "korean": "두 나라는 상호 무역 협정을 유지하고 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "reciprocal",
+      "korean": "상호적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "appeal",
+      "korean": "호소하다, 매력",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The doctor reassured her that the condition was not serious.",
+      "korean": "의사는 그 상태가 심각하지 않다고 그녀를 안심시켰다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "reassure",
+      "korean": "안심시키다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We need a rational approach to the problem.",
+      "korean": "우리는 그 문제에 합리적으로 접근해야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "rational",
+      "korean": "합리적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The course covers a wide range of topics.",
+      "korean": "그 과정은 폭넓은 주제를 다룬다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "range",
+      "korean": "범위, 다양하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Participants were selected at random.",
+      "korean": "참가자들은 무작위로 선정되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "random",
+      "korean": "무작위의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The company introduced radical changes to its structure.",
+      "korean": "그 회사는 조직 구조에 근본적인 변화를 도입했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "radical",
+      "korean": "급진적인, 근본적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "It became apparent that the plan would not work.",
+      "korean": "그 계획이 효과가 없을 것이 분명해졌다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She decided to pursue a career in medicine.",
+      "korean": "그녀는 의학 분야의 진로를 추구하기로 했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "pursue",
+      "korean": "추구하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Prospective students can attend an online information session.",
+      "korean": "예비 학생들은 온라인 설명회에 참석할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "prospective",
+      "korean": "장래의, 잠재적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "A large proportion of the budget goes to education.",
+      "korean": "예산의 큰 비율이 교육에 쓰인다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "proportion",
+      "korean": "비율",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The accident prompted a review of safety procedures.",
+      "korean": "그 사고로 인해 안전 절차가 재검토되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "prompt",
+      "korean": "촉발하다, 신속한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The campaign promotes healthy eating habits.",
+      "korean": "그 캠페인은 건강한 식습관을 장려한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "promote",
+      "korean": "촉진하다, 홍보하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "apparent",
+      "korean": "명백한, 겉으로 보이는",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She is a prominent expert in environmental law.",
+      "korean": "그녀는 환경법 분야의 저명한 전문가다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "prominent",
+      "korean": "두드러진, 저명한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Smoking is prohibited inside the building.",
+      "korean": "건물 안에서는 흡연이 금지되어 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "prohibit",
+      "korean": "금지하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The discovery had a profound impact on science.",
+      "korean": "그 발견은 과학에 깊은 영향을 미쳤다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "profound",
+      "korean": "깊은, 엄청난",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Our primary concern is public safety.",
+      "korean": "우리의 가장 큰 관심사는 공공 안전이다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "primary",
+      "korean": "주된, 주요한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Regular exercise can help prevent disease.",
+      "korean": "규칙적인 운동은 질병 예방에 도움이 될 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "prevent",
+      "korean": "예방하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We anticipate a sharp increase in demand.",
+      "korean": "우리는 수요가 크게 증가할 것으로 예상한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Common sense eventually prevailed.",
+      "korean": "결국 상식이 통했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "prevail",
+      "korean": "우세하다, 만연하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The law is intended to preserve historic buildings.",
+      "korean": "그 법은 역사적 건물을 보존하기 위한 것이다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "preserve",
+      "korean": "보존하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Preliminary results suggest that the treatment is effective.",
+      "korean": "초기 결과는 그 치료가 효과적임을 시사한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "preliminary",
+      "korean": "예비의, 초기의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "It is difficult to predict consumer behavior.",
+      "korean": "소비자 행동을 예측하기는 어렵다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "predict",
+      "korean": "예측하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The machine requires precise measurements.",
+      "korean": "그 기계에는 정확한 측정값이 필요하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "precise",
+      "korean": "정확한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "anticipate",
+      "korean": "예상하다, 기대하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "A short introduction preceded the main lecture.",
+      "korean": "짧은 소개가 본 강연에 앞서 진행되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "precede",
+      "korean": "앞서다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "His explanation sounds plausible.",
+      "korean": "그의 설명은 그럴듯하게 들린다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "plausible",
+      "korean": "그럴듯한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She finally succeeded after years of persistent effort.",
+      "korean": "그녀는 수년간의 끈질긴 노력 끝에 마침내 성공했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "persistent",
+      "korean": "끈질긴, 지속되는",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "People perceive risk differently.",
+      "korean": "사람들은 위험을 서로 다르게 인식한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "perceive",
+      "korean": "인지하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The study was conducted within strict parameters.",
+      "korean": "그 연구는 엄격한 범위 안에서 수행되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "parameter",
+      "korean": "매개변수, 한계",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We had ample time to prepare for the presentation.",
+      "korean": "우리는 발표를 준비할 시간이 충분했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "It is a paradox that greater choice can make decisions harder.",
+      "korean": "선택지가 많을수록 결정이 더 어려워질 수 있다는 것은 역설이다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "paradox",
+      "korean": "역설",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The responsibilities of the two departments overlap.",
+      "korean": "두 부서의 업무가 일부 겹친다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "overlap",
+      "korean": "겹치다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Overall, the project was a success.",
+      "korean": "전반적으로 그 프로젝트는 성공적이었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "overall",
+      "korean": "전반적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The outcome of the election was unexpected.",
+      "korean": "선거 결과는 예상 밖이었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "outcome",
+      "korean": "결과",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The training helps new employees orient themselves to the workplace.",
+      "korean": "그 교육은 신입 직원들이 직장 환경에 적응하도록 돕는다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "orient",
+      "korean": "방향을 잡게 하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "ample",
+      "korean": "충분한, 넉넉한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "abrupt",
+      "korean": "갑작스러운",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Local residents strongly opposed the development plan.",
+      "korean": "지역 주민들은 개발 계획에 강하게 반대했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "oppose",
+      "korean": "반대하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The investigation is still ongoing.",
+      "korean": "조사는 아직 진행 중이다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "ongoing",
+      "korean": "진행 중인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Several important details were omitted from the report.",
+      "korean": "보고서에서 몇 가지 중요한 세부 사항이 빠졌다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "omit",
+      "korean": "생략하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Higher sales helped offset rising costs.",
+      "korean": "매출 증가가 비용 상승을 상쇄하는 데 도움이 되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "offset",
+      "korean": "상쇄하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "You must obtain permission before entering.",
+      "korean": "들어가기 전에 허가를 받아야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "obtain",
+      "korean": "얻다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The instructions were too ambiguous to follow.",
+      "korean": "그 지침은 따르기에는 너무 모호했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The origin of the custom remains obscure.",
+      "korean": "그 관습의 기원은 여전히 불분명하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "obscure",
+      "korean": "불분명한, 가리다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The law obliges employers to provide a safe workplace.",
+      "korean": "법은 고용주에게 안전한 작업장을 제공할 의무를 부과한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "oblige",
+      "korean": "의무를 지우다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We need an objective assessment of the situation.",
+      "korean": "우리는 상황에 대한 객관적인 평가가 필요하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "objective",
+      "korean": "객관적인, 목표",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "He rejected the notion that success depends on luck.",
+      "korean": "그는 성공이 운에 달려 있다는 생각을 거부했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "notion",
+      "korean": "개념, 생각",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The difference in cost is negligible.",
+      "korean": "비용 차이는 무시해도 될 정도로 작다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "negligible",
+      "korean": "무시해도 될 정도의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "ambiguous",
+      "korean": "모호한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The agreement was based on mutual trust.",
+      "korean": "그 합의는 상호 신뢰를 바탕으로 했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "mutual",
+      "korean": "상호 간의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Doctors closely monitored the patient's condition.",
+      "korean": "의사들은 환자의 상태를 면밀히 관찰했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "monitor",
+      "korean": "관찰하다, 감시하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We modified the design after receiving feedback.",
+      "korean": "우리는 피드백을 받은 뒤 디자인을 수정했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "modify",
+      "korean": "수정하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "A neutral official was asked to mediate the dispute.",
+      "korean": "중립적인 관리가 그 분쟁을 중재해 달라는 요청을 받았다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "mediate",
+      "korean": "중재하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Scientists are studying the mechanism of memory.",
+      "korean": "과학자들은 기억의 작동 원리를 연구하고 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "mechanism",
+      "korean": "작동 원리, 장치",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The drug may alter the way the brain functions.",
+      "korean": "그 약은 뇌가 기능하는 방식을 바꿀 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The company wants to maximize efficiency.",
+      "korean": "그 회사는 효율성을 극대화하려 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "maximize",
+      "korean": "극대화하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The new policy produced only marginal improvements.",
+      "korean": "새 정책은 미미한 개선만 가져왔다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "marginal",
+      "korean": "미미한, 주변부의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The image had been digitally manipulated.",
+      "korean": "그 이미지는 디지털 방식으로 조작되어 있었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "manipulate",
+      "korean": "조작하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "It is difficult to maintain a healthy work-life balance.",
+      "korean": "건강한 일과 삶의 균형을 유지하기는 어렵다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "maintain",
+      "korean": "유지하다, 주장하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The first plan failed, and the second one likewise proved ineffective.",
+      "korean": "첫 번째 계획은 실패했고 두 번째 계획도 마찬가지로 효과가 없었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "likewise",
+      "korean": "마찬가지로",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "alter",
+      "korean": "바꾸다, 변경하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Drivers are liable for damage caused by negligence.",
+      "korean": "운전자는 부주의로 발생한 피해에 책임이 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "liable",
+      "korean": "책임이 있는, ~하기 쉬운",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The public raised legitimate concerns about privacy.",
+      "korean": "대중은 개인정보 보호에 대해 타당한 우려를 제기했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "legitimate",
+      "korean": "합법적인, 타당한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Nothing can justify such violent behavior.",
+      "korean": "그 어떤 것도 그런 폭력적인 행동을 정당화할 수 없다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "justify",
+      "korean": "정당화하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Scientists isolated the virus in the laboratory.",
+      "korean": "과학자들은 실험실에서 바이러스를 분리했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "isolate",
+      "korean": "고립시키다, 분리하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Curiosity has intrinsic value in education.",
+      "korean": "호기심은 교육에서 본질적인 가치를 지닌다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "intrinsic",
+      "korean": "본질적인, 내재적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The city allocated more funds to public transportation.",
+      "korean": "시는 대중교통에 더 많은 자금을 배정했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The government intervened to stabilize the market.",
+      "korean": "정부는 시장을 안정시키기 위해 개입했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "intervene",
+      "korean": "개입하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The results can be interpreted in several ways.",
+      "korean": "그 결과는 여러 방식으로 해석될 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "interpret",
+      "korean": "해석하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Noise can interfere with concentration.",
+      "korean": "소음은 집중을 방해할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "interfere",
+      "korean": "방해하다, 간섭하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Children learn by interacting with others.",
+      "korean": "아이들은 다른 사람들과 상호작용하며 배운다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "interact",
+      "korean": "상호작용하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The athletes trained under intense pressure.",
+      "korean": "선수들은 극심한 압박 속에서 훈련했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "intense",
+      "korean": "강렬한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "allocate",
+      "korean": "할당하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The course integrates theory with practical training.",
+      "korean": "그 과정은 이론과 실습을 통합한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "integrate",
+      "korean": "통합하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Teamwork is an integral part of the job.",
+      "korean": "팀워크는 그 업무의 필수적인 부분이다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "integral",
+      "korean": "필수적인, 완전한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Engineers inspected the bridge for damage.",
+      "korean": "기술자들은 다리의 손상 여부를 점검했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "inspect",
+      "korean": "점검하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The survey provides valuable insight into consumer behavior.",
+      "korean": "그 설문은 소비자 행동에 대한 귀중한 통찰을 제공한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "insight",
+      "korean": "통찰",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The company is known for its innovative products.",
+      "korean": "그 회사는 혁신적인 제품으로 유명하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "innovative",
+      "korean": "혁신적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Many doctors advocate regular exercise.",
+      "korean": "많은 의사들이 규칙적인 운동을 권장한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The initial results were encouraging.",
+      "korean": "초기 결과는 고무적이었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "initial",
+      "korean": "초기의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Fear can inhibit creative thinking.",
+      "korean": "두려움은 창의적인 사고를 억제할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "inhibit",
+      "korean": "억제하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "From the data, we can infer that demand is falling.",
+      "korean": "그 자료를 통해 수요가 감소하고 있음을 추론할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "infer",
+      "korean": "추론하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Some degree of conflict is inevitable.",
+      "korean": "어느 정도의 갈등은 불가피하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "inevitable",
+      "korean": "불가피한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The design incorporates several new features.",
+      "korean": "그 디자인에는 몇 가지 새로운 기능이 포함되어 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "incorporate",
+      "korean": "포함하다, 통합하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "advocate",
+      "korean": "옹호하다, 지지자",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "I am inclined to accept their proposal.",
+      "korean": "나는 그들의 제안을 받아들이는 쪽으로 마음이 기운다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "incline",
+      "korean": "기울다, 마음이 내키게 하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Any benefits were merely incidental.",
+      "korean": "어떤 이점이 있었다 해도 그것은 부수적인 것에 불과했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "incidental",
+      "korean": "부수적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The tax credit provides an incentive to invest.",
+      "korean": "세액 공제는 투자를 촉진하는 유인책이 된다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "incentive",
+      "korean": "장려책, 동기",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The city imposed a ban on outdoor fires.",
+      "korean": "시는 야외 불 사용 금지 조치를 시행했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "impose",
+      "korean": "부과하다, 강요하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "His tone implied that he disagreed.",
+      "korean": "그의 말투는 그가 동의하지 않는다는 것을 암시했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "imply",
+      "korean": "암시하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Our office is adjacent to the main conference room.",
+      "korean": "우리 사무실은 대회의실과 인접해 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The project required an immense amount of effort.",
+      "korean": "그 프로젝트에는 엄청난 노력이 필요했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "immense",
+      "korean": "막대한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The injured man needed immediate medical attention.",
+      "korean": "부상자는 즉각적인 치료가 필요했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "immediate",
+      "korean": "즉각적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "This example illustrates how the system works.",
+      "korean": "이 예시는 그 시스템이 어떻게 작동하는지 보여준다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "illustrate",
+      "korean": "설명하다, 예시를 들다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The police identified the suspect from the video.",
+      "korean": "경찰은 영상에서 용의자를 식별했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "identify",
+      "korean": "확인하다, 식별하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The two samples are chemically identical.",
+      "korean": "그 두 표본은 화학적으로 동일하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "identical",
+      "korean": "동일한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "adjacent",
+      "korean": "인접한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The government decided to abolish the outdated regulation.",
+      "korean": "정부는 낡은 규정을 폐지하기로 결정했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The experiment was designed to test the hypothesis.",
+      "korean": "그 실험은 가설을 검증하기 위해 설계되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "hypothesis",
+      "korean": "가설",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The report highlights the need for reform.",
+      "korean": "그 보고서는 개혁의 필요성을 강조한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "highlight",
+      "korean": "강조하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Do not hesitate to ask for help.",
+      "korean": "도움을 요청하는 것을 망설이지 마세요.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "hesitate",
+      "korean": "망설이다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Poor visibility is a serious hazard for drivers.",
+      "korean": "나쁜 시야는 운전자에게 심각한 위험 요소다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "hazard",
+      "korean": "위험 요소",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Heavy traffic hampered rescue efforts.",
+      "korean": "극심한 교통 체증이 구조 작업을 방해했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "hamper",
+      "korean": "방해하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The shelter did not have adequate food supplies.",
+      "korean": "그 대피소에는 충분한 식량이 없었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The patient made a gradual recovery.",
+      "korean": "그 환자는 점차 회복했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "gradual",
+      "korean": "점진적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She showed genuine concern for the victims.",
+      "korean": "그녀는 피해자들에게 진심 어린 걱정을 보였다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "genuine",
+      "korean": "진짜의, 진실한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The project is expected to generate new jobs.",
+      "korean": "그 프로젝트는 새로운 일자리를 창출할 것으로 예상된다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "generate",
+      "korean": "발생시키다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Trust is fundamental to a healthy relationship.",
+      "korean": "신뢰는 건강한 관계의 기본이다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "fundamental",
+      "korean": "근본적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The economy remains fragile after the crisis.",
+      "korean": "위기 이후 경제는 여전히 취약하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "fragile",
+      "korean": "깨지기 쉬운, 취약한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "adequate",
+      "korean": "충분한, 적절한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The program aims to foster creativity in children.",
+      "korean": "그 프로그램은 아이들의 창의성을 기르는 것을 목표로 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "foster",
+      "korean": "촉진하다, 기르다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The committee formulated a long-term strategy.",
+      "korean": "위원회는 장기 전략을 수립했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "formulate",
+      "korean": "수립하다, 만들어 내다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Oil prices fluctuate according to global demand.",
+      "korean": "유가는 세계 수요에 따라 변동한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "fluctuate",
+      "korean": "변동하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The plan is technically feasible but expensive.",
+      "korean": "그 계획은 기술적으로 가능하지만 비용이 많이 든다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "feasible",
+      "korean": "실현 가능한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The new system will facilitate communication between departments.",
+      "korean": "새 시스템은 부서 간 소통을 촉진할 것이다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "facilitate",
+      "korean": "촉진하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Animals must adapt to changes in their environment.",
+      "korean": "동물은 환경 변화에 적응해야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The company was accused of exploiting temporary workers.",
+      "korean": "그 회사는 임시직 근로자를 착취했다는 비난을 받았다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "exploit",
+      "korean": "활용하다, 착취하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The contract contains explicit instructions.",
+      "korean": "계약서에는 명시적인 지침이 포함되어 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "explicit",
+      "korean": "명백한, 명시적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The company plans to expand into overseas markets.",
+      "korean": "그 회사는 해외 시장으로 진출할 계획이다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "expand",
+      "korean": "확장하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The patient exhibited signs of severe fatigue.",
+      "korean": "그 환자는 심한 피로의 징후를 보였다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "exhibit",
+      "korean": "보이다, 전시하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The price excludes taxes and delivery fees.",
+      "korean": "그 가격에는 세금과 배송비가 포함되지 않는다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "exclude",
+      "korean": "제외하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "adapt",
+      "korean": "적응하다, 맞추다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The cost exceeded our original budget.",
+      "korean": "비용이 당초 예산을 초과했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "exceed",
+      "korean": "초과하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Her disappointment was evident from her expression.",
+      "korean": "그녀의 표정에서 실망감이 분명히 드러났다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "evident",
+      "korean": "분명한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We need to evaluate the effectiveness of the policy.",
+      "korean": "우리는 그 정책의 효과를 평가해야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "evaluate",
+      "korean": "평가하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Researchers must follow strict ethical guidelines.",
+      "korean": "연구자들은 엄격한 윤리 지침을 따라야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "ethical",
+      "korean": "윤리적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Experts estimate that repairs will take two months.",
+      "korean": "전문가들은 수리에 두 달이 걸릴 것으로 추정한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "estimate",
+      "korean": "추정하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Children acquire language through constant exposure.",
+      "korean": "아이들은 지속적인 노출을 통해 언어를 습득한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The organization was established in 1998.",
+      "korean": "그 단체는 1998년에 설립되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "establish",
+      "korean": "설립하다, 확립하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Constant criticism can erode a person's confidence.",
+      "korean": "계속된 비판은 사람의 자신감을 약화시킬 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "erode",
+      "korean": "침식시키다, 약화시키다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "One hour of exercise is equivalent to a brisk walk of several kilometers.",
+      "korean": "한 시간의 운동은 수 킬로미터를 빠르게 걷는 것과 맞먹는다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "equivalent",
+      "korean": "동등한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The job entails frequent travel.",
+      "korean": "그 직무에는 잦은 출장이 따른다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "entail",
+      "korean": "수반하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Please double-check the data to ensure accuracy.",
+      "korean": "정확성을 보장하기 위해 데이터를 다시 확인해 주세요.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "ensure",
+      "korean": "보장하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "acquire",
+      "korean": "얻다, 습득하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Good lighting can enhance the appearance of a room.",
+      "korean": "좋은 조명은 방의 분위기를 더 좋게 만들 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "enhance",
+      "korean": "향상시키다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The police must enforce the law fairly.",
+      "korean": "경찰은 법을 공정하게 집행해야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "enforce",
+      "korean": "시행하다, 집행하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We encountered several difficulties along the way.",
+      "korean": "우리는 진행 과정에서 여러 어려움에 부딪혔다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "encounter",
+      "korean": "마주치다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The scholarship enabled her to continue her studies.",
+      "korean": "장학금 덕분에 그녀는 학업을 계속할 수 있었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "enable",
+      "korean": "가능하게 하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The theory is supported by empirical evidence.",
+      "korean": "그 이론은 실증적 증거로 뒷받침된다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "empirical",
+      "korean": "경험적인, 실증적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "He acknowledged that he had made a mistake.",
+      "korean": "그는 자신이 실수했다는 것을 인정했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Cars emit carbon dioxide into the atmosphere.",
+      "korean": "자동차는 대기 중으로 이산화탄소를 배출한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "emit",
+      "korean": "방출하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Several problems emerged during the test.",
+      "korean": "시험 중에 여러 문제가 나타났다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "emerge",
+      "korean": "나타나다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The new filter eliminates harmful particles.",
+      "korean": "새 필터는 유해 입자를 제거한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "eliminate",
+      "korean": "제거하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She gave an elaborate explanation of the process.",
+      "korean": "그녀는 그 과정에 대해 상세히 설명했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "elaborate",
+      "korean": "정교한, 상세히 설명하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "This material is light but highly durable.",
+      "korean": "이 소재는 가볍지만 내구성이 매우 좋다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "durable",
+      "korean": "내구성이 좋은",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "acknowledge",
+      "korean": "인정하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The company took drastic measures to cut costs.",
+      "korean": "그 회사는 비용 절감을 위해 과감한 조치를 취했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "drastic",
+      "korean": "급격한, 과감한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Domestic demand has remained stable.",
+      "korean": "국내 수요는 안정적으로 유지되고 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "domestic",
+      "korean": "국내의, 가정의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The city has a culturally diverse population.",
+      "korean": "그 도시는 문화적으로 다양한 인구를 보유하고 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "diverse",
+      "korean": "다양한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The article distorted what she had actually said.",
+      "korean": "그 기사는 그녀가 실제로 한 말을 왜곡했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "distort",
+      "korean": "왜곡하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The two species have distinct characteristics.",
+      "korean": "그 두 종은 뚜렷이 다른 특징을 지닌다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "distinct",
+      "korean": "뚜렷이 다른",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The report provides an accurate description of the event.",
+      "korean": "그 보고서는 사건을 정확하게 묘사한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Hazardous waste must be disposed of safely.",
+      "korean": "유해 폐기물은 안전하게 처리되어야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "dispose",
+      "korean": "처리하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The crowd dispersed after the speech.",
+      "korean": "연설이 끝난 뒤 군중은 흩어졌다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "disperse",
+      "korean": "흩어지다, 분산시키다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The judge dismissed the case for lack of evidence.",
+      "korean": "판사는 증거 부족으로 그 사건을 기각했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "dismiss",
+      "korean": "일축하다, 해고하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The law prohibits employers from discriminating based on age.",
+      "korean": "법은 고용주가 나이를 이유로 차별하는 것을 금지한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "discriminate",
+      "korean": "차별하다, 구별하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The course is divided into five discrete units.",
+      "korean": "그 과정은 다섯 개의 별도 단원으로 나뉜다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "discrete",
+      "korean": "별개의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "accurate",
+      "korean": "정확한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "abolish",
+      "korean": "폐지하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The company refused to disclose the details.",
+      "korean": "그 회사는 세부 사항 공개를 거부했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "disclose",
+      "korean": "공개하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Public interest in the issue has diminished.",
+      "korean": "그 문제에 대한 대중의 관심이 줄어들었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "diminish",
+      "korean": "줄어들다, 약화시키다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The team devised a new marketing strategy.",
+      "korean": "그 팀은 새로운 마케팅 전략을 고안했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "devise",
+      "korean": "고안하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The bus deviated from its usual route.",
+      "korean": "버스는 평소 노선에서 벗어났다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "deviate",
+      "korean": "벗어나다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "His health began to deteriorate rapidly.",
+      "korean": "그의 건강은 빠르게 악화되기 시작했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "deteriorate",
+      "korean": "악화되다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Dust had accumulated on the old books.",
+      "korean": "오래된 책들 위에 먼지가 쌓여 있었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The device can detect even small changes in temperature.",
+      "korean": "그 장치는 작은 온도 변화도 감지할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "detect",
+      "korean": "감지하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Many English words derive from Latin.",
+      "korean": "많은 영어 단어는 라틴어에서 유래한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "derive",
+      "korean": "얻다, 유래하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Overfishing has depleted local fish stocks.",
+      "korean": "남획으로 지역의 어족 자원이 고갈되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "deplete",
+      "korean": "고갈시키다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "A red light usually denotes danger.",
+      "korean": "빨간불은 보통 위험을 나타낸다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "denote",
+      "korean": "나타내다, 의미하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The experiment demonstrates the importance of clean water.",
+      "korean": "그 실험은 깨끗한 물의 중요성을 보여준다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "demonstrate",
+      "korean": "입증하다, 보여주다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "accumulate",
+      "korean": "축적하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The decision was the result of deliberate consideration.",
+      "korean": "그 결정은 신중한 검토의 결과였다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "deliberate",
+      "korean": "신중한, 고의적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The diet is deficient in essential vitamins.",
+      "korean": "그 식단에는 필수 비타민이 부족하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "deficient",
+      "korean": "부족한, 결핍된",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We can deduce the answer from the evidence.",
+      "korean": "우리는 그 증거로부터 답을 추론할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "deduce",
+      "korean": "추론하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The number of applicants declined sharply.",
+      "korean": "지원자 수가 급격히 감소했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "decline",
+      "korean": "감소하다, 거절하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The cumulative effect of stress can be serious.",
+      "korean": "스트레스의 누적 효과는 심각할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "cumulative",
+      "korean": "누적되는",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "A guide accompanied us throughout the tour.",
+      "korean": "가이드가 여행 내내 우리와 동행했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Public trust is crucial to the success of the program.",
+      "korean": "대중의 신뢰는 그 프로그램의 성공에 매우 중요하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "crucial",
+      "korean": "매우 중요한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Several countries agreed to cooperate on the project.",
+      "korean": "여러 나라가 그 프로젝트에 협력하기로 합의했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "cooperate",
+      "korean": "협력하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She convinced me to apply for the position.",
+      "korean": "그녀는 내가 그 자리에 지원하도록 설득했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "convince",
+      "korean": "납득시키다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The old warehouse was converted into apartments.",
+      "korean": "오래된 창고는 아파트로 개조되었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "convert",
+      "korean": "전환하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "They rejected conventional methods and tried a new approach.",
+      "korean": "그들은 전통적인 방법을 버리고 새로운 접근법을 시도했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "conventional",
+      "korean": "전통적인, 관습적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "accompany",
+      "korean": "동행하다, 수반하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The proposal remains highly controversial.",
+      "korean": "그 제안은 여전히 큰 논란을 낳고 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "controversial",
+      "korean": "논란이 많은",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "His statement contradicts the available evidence.",
+      "korean": "그의 진술은 현재의 증거와 모순된다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "contradict",
+      "korean": "모순되다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The museum focuses on contemporary art.",
+      "korean": "그 박물관은 현대 미술을 중점적으로 다룬다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "contemporary",
+      "korean": "현대의, 동시대의",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "This appliance consumes less electricity.",
+      "korean": "이 가전제품은 전기를 덜 소비한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "consume",
+      "korean": "소비하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "You should consult a specialist before making a decision.",
+      "korean": "결정하기 전에 전문가와 상담해야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "consult",
+      "korean": "상담하다, 참고하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The hotel can accommodate up to 500 guests.",
+      "korean": "그 호텔은 최대 500명의 손님을 수용할 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "A limited budget constrained our choices.",
+      "korean": "제한된 예산 때문에 선택의 폭이 좁아졌다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "constrain",
+      "korean": "제약하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Women constitute nearly half of the workforce.",
+      "korean": "여성은 노동력의 거의 절반을 구성한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "constitute",
+      "korean": "구성하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Her actions are consistent with her principles.",
+      "korean": "그녀의 행동은 자신의 원칙과 일치한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "consistent",
+      "korean": "일관된",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The project requires a considerable amount of time.",
+      "korean": "그 프로젝트에는 상당한 시간이 필요하다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "considerable",
+      "korean": "상당한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We need to conserve water during the dry season.",
+      "korean": "건기에는 물을 아껴야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "conserve",
+      "korean": "보존하다, 절약하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "accommodate",
+      "korean": "수용하다, 편의를 제공하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Every decision has consequences.",
+      "korean": "모든 결정에는 결과가 따른다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "consequence",
+      "korean": "결과",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The patient consented to the procedure.",
+      "korean": "환자는 그 시술에 동의했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "consent",
+      "korean": "동의하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The building must conform to safety standards.",
+      "korean": "그 건물은 안전 기준을 준수해야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "conform",
+      "korean": "따르다, 순응하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The new policy conflicts with existing law.",
+      "korean": "새 정책은 현행법과 충돌한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "conflict",
+      "korean": "갈등하다, 충돌",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Please confirm your reservation by Friday.",
+      "korean": "금요일까지 예약을 확인해 주세요.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "confirm",
+      "korean": "확인하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The museum is accessible by subway.",
+      "korean": "그 박물관은 지하철로 쉽게 갈 수 있다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The illness confined him to bed for a week.",
+      "korean": "그는 병 때문에 일주일 동안 침대에 누워 있어야 했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "confine",
+      "korean": "제한하다, 가두다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The university conducted a survey among students.",
+      "korean": "그 대학은 학생들을 대상으로 설문조사를 실시했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "conduct",
+      "korean": "수행하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The two conferences were held on concurrent dates.",
+      "korean": "두 학회는 같은 날짜에 열렸다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "concurrent",
+      "korean": "동시에 일어나는",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "It is difficult to concentrate in a noisy room.",
+      "korean": "시끄러운 방에서는 집중하기 어렵다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "concentrate",
+      "korean": "집중하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She conceded that her opponent had a valid point.",
+      "korean": "그녀는 상대방의 주장에 일리가 있음을 인정했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "concede",
+      "korean": "인정하다, 양보하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "accessible",
+      "korean": "접근 가능한, 이용하기 쉬운",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "He tried to conceal his disappointment.",
+      "korean": "그는 실망감을 숨기려고 했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "conceal",
+      "korean": "숨기다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The report offers a comprehensive analysis of the issue.",
+      "korean": "그 보고서는 그 문제에 대한 포괄적인 분석을 제공한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "comprehensive",
+      "korean": "포괄적인",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "All employees must comply with safety rules.",
+      "korean": "모든 직원은 안전 규정을 준수해야 한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "comply",
+      "korean": "준수하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The human brain is an extremely complex organ.",
+      "korean": "인간의 뇌는 매우 복잡한 기관이다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "complex",
+      "korean": "복잡한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The sauce complements the flavor of the fish.",
+      "korean": "그 소스는 생선의 맛을 잘 보완한다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "complement",
+      "korean": "보완하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "New technology has accelerated the pace of change.",
+      "korean": "신기술은 변화의 속도를 가속했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The researcher compiled data from several sources.",
+      "korean": "연구자는 여러 출처의 자료를 모아 정리했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "compile",
+      "korean": "수집하여 정리하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She is a highly competent engineer.",
+      "korean": "그녀는 매우 유능한 엔지니어다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "competent",
+      "korean": "유능한",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The evidence compelled him to admit the truth.",
+      "korean": "그 증거 때문에 그는 진실을 인정할 수밖에 없었다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "compel",
+      "korean": "강요하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The ceremony will commence at noon.",
+      "korean": "행사는 정오에 시작될 것이다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "commence",
+      "korean": "시작하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The roof collapsed under the weight of the snow.",
+      "korean": "지붕은 눈의 무게를 견디지 못하고 무너졌다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "collapse",
+      "korean": "붕괴하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "accelerate",
+      "korean": "가속하다, 촉진하다",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The hikers had to abandon their plan because of the storm.",
+      "korean": "등산객들은 폭풍 때문에 계획을 포기해야 했다.",
+      "tags": [
+        "고급어휘"
+      ]
+    },
+    {
+      "kind": "word",
+      "english": "abandon",
+      "korean": "버리다, 포기하다",
+      "tags": [
+        "고급어휘"
+      ]
+    }
+  ]
+}

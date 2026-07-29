@@ -1,0 +1,579 @@
+{
+  "format": "linguling-deck",
+  "version": 1,
+  "deck": {
+    "name": "생활 영어 표현과 예문",
+    "description": "일상에서 자주 쓰는 영어 표현 21개와 새롭게 작성한 예문 42개",
+    "author": "흐안느아",
+    "license": "CC BY-NC 4.0"
+  },
+  "cards": [
+    {
+      "kind": "expression",
+      "english": "get the hang of (명사)",
+      "korean": "(명사)의 요령이나 감을 익히다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "After a few practice rounds, I got the hang of the new camera.",
+      "korean": "몇 번 연습하고 나니 새 카메라 사용법의 감을 잡았다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "You will get the hang of parallel parking with a little patience.",
+      "korean": "조금만 인내심을 가지면 평행 주차의 요령을 익히게 될 거야.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "all over the place",
+      "korean": "정신없고 정리가 안 된 상태인",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "My notes were all over the place, so I organized them by topic.",
+      "korean": "내 필기가 너무 뒤죽박죽이라 주제별로 정리했다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "I was all over the place this morning because I overslept.",
+      "korean": "오늘 아침에는 늦잠을 자서 정신이 하나도 없었다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "feel a sense of purpose in",
+      "korean": "-하는 일에서 보람이나 사명감을 느끼다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She feels a sense of purpose in helping new employees adjust.",
+      "korean": "그녀는 신입 직원들의 적응을 돕는 일에서 보람을 느낀다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "I feel a sense of purpose in teaching children how to read.",
+      "korean": "나는 아이들에게 읽는 법을 가르치는 일에서 사명감을 느낀다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "every bit of (명사)",
+      "korean": "(명사)의 모든 부분, 전부",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We enjoyed every bit of our weekend in the mountains.",
+      "korean": "우리는 산에서 보낸 주말의 모든 순간을 즐겼다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She checked every bit of the report before sending it.",
+      "korean": "그녀는 보고서를 보내기 전에 모든 부분을 확인했다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "stumble over one's words",
+      "korean": "긴장하거나 당황해서 말을 더듬다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "I stumbled over my words when everyone turned to look at me.",
+      "korean": "모두가 나를 바라보자 나는 당황해서 말을 더듬었다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "He rarely stumbles over his words during presentations.",
+      "korean": "그는 발표 중에 좀처럼 말을 더듬지 않는다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "make (명사) count",
+      "korean": "(명사)를 가치 있고 의미 있게 만들다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We only have one hour, so let's make it count.",
+      "korean": "우리에게 한 시간밖에 없으니 알차게 보내자.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She made every practice session count before the competition.",
+      "korean": "그녀는 대회 전 모든 연습 시간을 의미 있게 활용했다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "come to terms with (명사)",
+      "korean": "(어려운 사실이나 변화를) 받아들이다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "It took me time to come to terms with the unexpected change.",
+      "korean": "예상치 못한 변화를 받아들이는 데 시간이 걸렸다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "He is slowly coming to terms with the end of the project.",
+      "korean": "그는 프로젝트가 끝났다는 사실을 천천히 받아들이고 있다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "go numb",
+      "korean": "감각이 없어지거나 저리다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "My fingers go numb when I stay outside too long in winter.",
+      "korean": "겨울에 밖에 너무 오래 있으면 손가락 감각이 없어진다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Her leg went numb after she sat in the same position for hours.",
+      "korean": "그녀는 몇 시간 동안 같은 자세로 앉아 있어 다리가 저렸다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "go behind someone's back",
+      "korean": "(누군가) 몰래 일을 진행하다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Please talk to me instead of going behind my back.",
+      "korean": "내 몰래 행동하지 말고 나와 직접 이야기해 줘.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "He felt betrayed when they made the decision behind his back.",
+      "korean": "그들은 그의 몰래 결정을 내렸고 그는 배신감을 느꼈다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "sneak up on",
+      "korean": "(사람에게) 몰래 다가가다, 어느새 닥치다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The cat tried to sneak up on the bird quietly.",
+      "korean": "고양이는 새에게 조용히 몰래 다가가려 했다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The final deadline sneaked up on us faster than expected.",
+      "korean": "최종 마감일이 예상보다 빠르게 코앞에 닥쳤다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "make a name for oneself",
+      "korean": "실력이나 성과로 이름을 알리다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The young chef made a name for herself with creative desserts.",
+      "korean": "그 젊은 요리사는 창의적인 디저트로 이름을 알렸다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "He hopes to make a name for himself in the design industry.",
+      "korean": "그는 디자인 업계에서 이름을 알리고 싶어 한다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "act up",
+      "korean": "사람이 말썽을 부리거나 기계가 제대로 작동하지 않다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "My laptop started acting up right before the online meeting.",
+      "korean": "온라인 회의 직전에 노트북이 말썽을 부리기 시작했다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The children tend to act up when they are tired.",
+      "korean": "아이들은 피곤할 때 말썽을 부리는 경향이 있다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "keep track of",
+      "korean": "(정보나 진행 상황을) 계속 기록하고 확인하다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "I use a small notebook to keep track of my expenses.",
+      "korean": "나는 지출을 기록하기 위해 작은 수첩을 사용한다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "This calendar helps us keep track of every deadline.",
+      "korean": "이 달력은 모든 마감일을 계속 확인하는 데 도움을 준다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "can't seem to",
+      "korean": "아무리 해도 좀처럼 -하지 못하다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "I can't seem to remember where I left my glasses.",
+      "korean": "안경을 어디에 두었는지 도무지 기억나지 않는다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She can't seem to get enough sleep these days.",
+      "korean": "그녀는 요즘 아무리 해도 충분히 자지 못하는 것 같다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "drop the ball",
+      "korean": "책임져야 할 일을 놓치거나 실수하다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "I dropped the ball and forgot to confirm the reservation.",
+      "korean": "내가 실수로 예약 확인을 잊어버렸다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The team apologized for dropping the ball on the final review.",
+      "korean": "팀은 최종 검토를 놓친 것에 대해 사과했다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "catch strays",
+      "korean": "상관없는 일로 뜻밖의 비난이나 피해를 받다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "I was not part of the argument, but I still caught strays.",
+      "korean": "나는 그 다툼과 상관없었는데도 괜히 비난을 받았다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The whole department caught strays because of one person's mistake.",
+      "korean": "한 사람의 실수 때문에 부서 전체가 뜻밖의 피해를 봤다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "put on (명사)",
+      "korean": "옷을 입거나 화장품·약 등을 바르다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "Put on a light jacket because it may get chilly tonight.",
+      "korean": "오늘 밤 쌀쌀해질 수 있으니 얇은 재킷을 입어.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She put on some sunscreen before leaving the house.",
+      "korean": "그녀는 집을 나서기 전에 자외선 차단제를 발랐다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "get roasted",
+      "korean": "햇볕에 심하게 타거나 심한 놀림을 받다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "I forgot my hat and got roasted in the afternoon sun.",
+      "korean": "모자를 깜빡해서 오후 햇볕에 심하게 탔다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "He got roasted by his friends for wearing mismatched shoes.",
+      "korean": "그는 짝이 맞지 않는 신발을 신어서 친구들에게 심하게 놀림을 받았다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "wear off",
+      "korean": "효과·향·감각 등이 점차 사라지다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The pain returned after the medicine wore off.",
+      "korean": "약효가 사라진 뒤 통증이 다시 생겼다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "The excitement wore off once the real work began.",
+      "korean": "실제 일이 시작되자 흥분이 점차 가라앉았다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "on a whim",
+      "korean": "갑작스러운 기분이나 충동으로",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "We took a day trip to the coast on a whim.",
+      "korean": "우리는 즉흥적으로 해안으로 당일치기 여행을 갔다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She bought the bright yellow chair on a whim.",
+      "korean": "그녀는 충동적으로 밝은 노란색 의자를 샀다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "expression",
+      "english": "throw (명사) on",
+      "korean": "옷을 급히 걸치거나 무언가를 대충 바르다",
+      "tags": [
+        "생활영어",
+        "핵심표현"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "I threw on a hoodie and ran out to catch the bus.",
+      "korean": "나는 후드티를 급히 걸치고 버스를 타러 뛰어나갔다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    },
+    {
+      "kind": "sentence",
+      "english": "She threw on a little lip balm before the video call.",
+      "korean": "그녀는 영상 통화 전에 립밤을 조금 급히 발랐다.",
+      "tags": [
+        "생활영어",
+        "예문"
+      ]
+    }
+  ]
+}
