@@ -5,7 +5,7 @@
 
 ## 최신 버전
 
-**LinguLing 1.0.0**
+**LinguLing 1.0.1**
 
 APK는 이 저장소의
 [Releases](https://github.com/harleekim/linguling-releases/releases)에서
@@ -13,7 +13,7 @@ APK는 이 저장소의
 
 ## 설치 방법
 
-1. 최신 릴리즈에서 `LinguLing-1.0.0.apk`를 다운로드합니다.
+1. 최신 릴리즈에서 `LinguLing-1.0.1.apk`를 다운로드합니다.
 2. Android에서 다운로드한 APK를 엽니다.
 3. 브라우저 또는 파일 앱의 “알 수 없는 앱 설치” 권한을 요청하면 허용합니다.
 4. 설치를 완료하고 링구링을 실행합니다.
