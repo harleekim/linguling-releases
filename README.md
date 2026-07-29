@@ -1,25 +1,32 @@
-# WordFlip 다운로드
+# 링구링(LinguLing) 다운로드
 
-WordFlip은 직접 만든 영어 단어·표현·문장을 공부하고 시험하는 Android
-영어 학습 앱입니다.
+링구링은 직접 만든 영어 단어·표현·문장을 공부하고 시험하는 Android 영어
+학습 앱입니다.
 
 ## 최신 버전
 
-**WordFlip 1.0.12**
+**LinguLing 1.0.0**
 
 APK는 이 저장소의
-[Releases](https://github.com/harleekim/wordflip-releases/releases)에서
+[Releases](https://github.com/harleekim/linguling-releases/releases)에서
 다운로드할 수 있습니다.
 
 ## 설치 방법
 
-1. 최신 릴리즈에서 `WordFlip-1.0.12.apk`를 다운로드합니다.
+1. 최신 릴리즈에서 `LinguLing-1.0.0.apk`를 다운로드합니다.
 2. Android에서 다운로드한 APK를 엽니다.
 3. 브라우저 또는 파일 앱의 “알 수 없는 앱 설치” 권한을 요청하면 허용합니다.
-4. 설치를 완료하고 WordFlip을 실행합니다.
+4. 설치를 완료하고 링구링을 실행합니다.
 
-기존 WordFlip 사용자는 같은 APK를 설치하면 등록한 데이터를 유지하면서
-업데이트할 수 있습니다.
+## WordFlip 사용자의 데이터 이전
+
+LinguLing은 패키지명이 변경된 새 앱이므로 기존 WordFlip 위에 업데이트되지
+않고 별도 설치됩니다.
+
+1. WordFlip의 설정에서 **전체 백업 내보내기**를 실행합니다.
+2. LinguLing을 설치합니다.
+3. LinguLing의 설정에서 **전체 백업 복원**을 실행합니다.
+4. 카드와 학습 기록을 확인한 후 기존 WordFlip을 삭제합니다.
 
 ## 주요 기능
 
@@ -33,10 +40,10 @@ APK는 이 저장소의
 
 ## 배포 저장소 안내
 
-이 저장소는 WordFlip Android APK와 릴리즈 안내를 공개하기 위한 곳이며
-앱 소스 코드는 포함하지 않습니다.
+이 저장소는 LinguLing Android APK와 릴리즈 안내를 공개하기 위한 곳이며 앱
+소스 코드는 포함하지 않습니다.
 
-향후 다른 사용자가 내려받을 수 있는 공개 WordFlip 단어장도 이 저장소에서
+향후 다른 사용자가 내려받을 수 있는 공개 LinguLing 단어장도 이 저장소에서
 제공할 예정입니다.
 
 Android는 APK를 직접 설치할 수 있지만 iPhone에서는 APK를 사용할 수 없습니다.
