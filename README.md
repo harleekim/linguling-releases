@@ -11,6 +11,8 @@ APK는 이 저장소의
 [Releases](https://github.com/harleekim/linguling-releases/releases)에서
 다운로드할 수 있습니다.
 
+[링구링 개인정보처리방침](https://harleekim.github.io/linguling-releases/privacy/)
+
 ## 설치 방법
 
 1. 최신 릴리즈에서 `LinguLing-1.0.1.apk`를 다운로드합니다.
