@@ -13,6 +13,12 @@ APK는 이 저장소의
 
 [링구링 개인정보처리방침](https://harleekim.github.io/linguling-releases/privacy/)
 
+## 공개 단어장
+
+링구링에서 바로 가져올 수 있는 무료 단어장을 제공합니다.
+
+[링구링 공개 단어장 다운로드](https://harleekim.github.io/linguling-releases/decks/)
+
 ## 설치 방법
 
 1. 최신 릴리즈에서 `LinguLing-1.0.1.apk`를 다운로드합니다.
